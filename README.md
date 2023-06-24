@@ -18,6 +18,8 @@ The NFT Marketplace on NEAR Blockchain with Aurora EVM is a decentralized Web3 a
 
 - **Aurora Testnet Integration**: The marketplace is pre-configured to connect with the Aurora Testnet, allowing for easy development and testing of smart contracts and application integration.
 
+- **Video Demo**: https://youtu.be/KKeVpi1G8Hk
+
 ## Installation
 
 To install and run the NFT Marketplace on your local machine, follow these steps:
